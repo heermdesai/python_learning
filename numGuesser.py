@@ -5,7 +5,7 @@ low = 1
 numChance = 10
 numGuesses = 0
 
-print("I am thinking of a number between 1 and 10. Try to guess what it is!")
+print("I am thinking of a number between 1 and 10. Try to guess what it is!!!")
 
 num = random.randrange(low, high + 1)
 print(num)
